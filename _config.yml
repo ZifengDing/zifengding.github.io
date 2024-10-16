@@ -96,7 +96,7 @@ collections:
   news:
     defaults:
       layout: post
-    output: flase
+    output: false
     permalink: /news/:path/
   # projects:
   #   output: true
