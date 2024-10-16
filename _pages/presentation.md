@@ -12,10 +12,12 @@ sort_menu: 2
 ](https://2024.naacl.org/) in Mexico City, Mexico \[[Pre-recorded Video](https://underline.io/events/458/sessions/17454/lecture/97289-zrllm-zero-shot-relational-learning-on-temporal-knowledge-graphs-with-large-language-models)\]
 - **2022/05/02**: "*zrLLM: Zero-Shot Relational Learning on Temporal Knowledge Graphs with Large Language Models*" at the [Temporal Graph Reading Group
 ](https://www.cs.mcgill.ca/~shuang43/rg.html) \[[Video](https://www.youtube.com/watch?v=buUeOQLtzBc)\]
+- **2022/03/02**: "*Past Present and Future*" at SMR Demo Session @ Siemens AG
+in Munich, Germany
   
 ### Talks
-##### 2022
-- **2022/09/28**: "*Improving Machine Learning at Twitter using Graphs*" at [Privacy Week](https://privacyweek.it/) \[[Video](https://privacyweek.it/event/potenziare-lapprendimento-automatico-su-twitter-utilizzando-i-grafi/) (in Italian)]
+##### 2023
+- **2022/11/09**: "*ForecastTKGQuestions: A Benchmark for Temporal Question Answering and Forecasting over Temporal Knowledge Graphs*" at [ISWC 2023](https://iswc2023.semanticweb.org/) in Athens, Greece
 - **2022/09/09**: "*Learning on Graphs with Missing Node Features*" at the [Tiger Graph](https://www.tigergraph.com/) Reading Group
 - **2022/03/01**: "*Learning on Graphs with Missing Node Features*" at the [Learning on Graphs and Geometry Reading Group](https://hannes-stark.com/logag-reading-group) \[[Slides](https://docs.google.com/presentation/d/11dAeJRalTI7K1YAxMNz_yElZ0lVO5Bw7n0LBqSd-OUY/edit#slide=id.g1017b3d77ca_0_0)\]\[[Video](https://www.youtube.com/watch?v=xe5A-xQTBdM)\]
 - **2022/02/24**: "*Learning on Graphs with Missing Node Features*" at the [Machine Learning Research Group](https://www.robots.ox.ac.uk/~parg/)
