@@ -7,11 +7,11 @@ nav: true
 sort_menu: 2
 ---
 ### Talks
-##### 2023
-- **2022/09/14**: "*Edge Directionality Improves Learning on Heterophilic Graphs*" at the [Temporal Graph Reading Group
-](https://www.cs.mcgill.ca/~shuang43/rg.html) \[[Slides](../assets/pdf/dirgnn_tgl_reading_group.pdf)\]\[[Video](https://www.youtube.com/watch?v=VjpUSR1NZvI)\]
-- **2022/09/07**: "*Edge Directionality Improves Learning on Heterophilic Graphs*" at the [Explainability and Applicability of Graph Neural Networks Workshop
-](https://www.gain-group.de/html/events.html) in Kassel
+##### 2024
+- **2024/06/18**: "*zrLLM: Zero-Shot Relational Learning on Temporal Knowledge Graphs with Large Language Models*" at [NAACL 2024
+](https://2024.naacl.org/) in Mexico City, Mexico \[[Pre-recorded Video](https://underline.io/events/458/sessions/17454/lecture/97289-zrllm-zero-shot-relational-learning-on-temporal-knowledge-graphs-with-large-language-models)\]
+- **2022/05/02**: "*zrLLM: Zero-Shot Relational Learning on Temporal Knowledge Graphs with Large Language Models*" at the [Temporal Graph Reading Group
+](https://www.cs.mcgill.ca/~shuang43/rg.html) \[[Video](https://www.youtube.com/watch?v=buUeOQLtzBc)\]
   
 ### Talks
 ##### 2022
