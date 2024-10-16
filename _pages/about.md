@@ -6,7 +6,7 @@ subtitle: Postdoc @ University of Cambridge
 
 profile:
   align: right
-  image: ELLIS_ZifengDing.png
+  image: ELLIS_ZifengDing.jpg
   address: >
     <p> </p>
     <p> </p>
