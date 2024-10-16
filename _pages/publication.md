@@ -37,11 +37,11 @@ To achieve this, I am conducting fundamental research in the following areas:
 
 
 
-### Selected Publications (Full publist on [google scholar](https://scholar.google.com/citations?user=8RapuD4AAAAJ&hl=en))
+#### Selected Publications (Full publist on [google scholar](https://scholar.google.com/citations?user=8RapuD4AAAAJ&hl=en))
 
 <br/>
 
-#### Conference & Journal
+##### Conference
 
 <div class="publications">
 <!-- {% for y in page.years %} -->
