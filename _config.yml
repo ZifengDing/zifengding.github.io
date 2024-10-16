@@ -2,16 +2,16 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-# name: Bo Xiong
+# name: Zifeng Ding
 title: Zifeng Ding
-email: bo.xiong@ki.uni-stuttgart.de
+email: zd320@cam.ac.uk
 description: > # this means to ignore newlines until "url:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 🔥 # the emoji used as the favicon
-url: https://boxiong.io #the base hostname & protocol for your site
+url: https://zifengding.github.io #the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/
 last_updated: false # set to true if you want to display last updated in the footer
 impressum_path:  # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
@@ -47,8 +47,8 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # -----------------------------------------------------------------------------
 
 # github_username: xiongbo010
-twitter_username: BoXiongs
-linkedin_username: xiongbo010
+# twitter_username: BoXiongs
+linkedin_username: zifeng-ding-9361b0186
 scholar_userid: lmBXicIAAAAJ
 orcid_id: # your ORCID ID
 medium_username: # your Medium username
