@@ -67,7 +67,7 @@ stackoverflow_id: #your stackoverflow id
 contact_note: >
   Please reach out to me by email if you have any question. Thanks <a href="https://emanuelerossi.co.uk/" target=”_blank”>Emanuele Rossi</a> for the template.
 
-google_analytics: UA-99987221-2 # your google-analytics ID (format: UA-XXXXXXXXX)
+google_analytics: # your google-analytics ID (format: UA-XXXXXXXXX)
 google_site_verification:  # your google-site-verification ID (Google Search Console)
 bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 panelbear_analytics:  # panelbear analytics site ID (format: XXXXXXXXX)
