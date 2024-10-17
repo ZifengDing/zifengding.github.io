@@ -50,7 +50,7 @@ To achieve this, I am conducting fundamental research in the following areas:
       <h3 class="bibliography-year">{{y}}</h3>
     </div>
     <div class="col-sm-11 p-0">
-      {% bibliography -f papers -q @*[year={{y}}]* %}
+      {% bibliography -f papers -q @*[year={{y}},selected=true]* %}
     </div>
   </div>
 <!-- {% endfor %} -->
@@ -68,7 +68,7 @@ To achieve this, I am conducting fundamental research in the following areas:
       <!-- <h3 class="bibliography-year">{{y}}</h3> -->
     </div>
     <div class="col-sm-11 p-0">
-      {% bibliography -f preprint -q @*[year={{y}}]* %}
+      {% bibliography -f preprint -q @*[year={{y}},selected=true]* %}
     </div>
   </div>
 <!-- {% endfor %} -->
