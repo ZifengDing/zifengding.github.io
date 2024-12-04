@@ -8,21 +8,22 @@ sort_menu: 2
 ---
 ### Talks
 ##### 2024
+- **2022/10/31**: Invited talk "*Language Models and Knowledge Representation Learning*" at University of Stuttgart in Stuttgart, Germany.
 - **2024/06/18**: "*zrLLM: Zero-Shot Relational Learning on Temporal Knowledge Graphs with Large Language Models*" at [NAACL 2024
-](https://2024.naacl.org/) in Mexico City, Mexico \[[Pre-recorded Video](https://underline.io/events/458/sessions/17454/lecture/97289-zrllm-zero-shot-relational-learning-on-temporal-knowledge-graphs-with-large-language-models)\]
+](https://2024.naacl.org/) in Mexico City, Mexico. \[[Pre-recorded Video](https://underline.io/events/458/sessions/17454/lecture/97289-zrllm-zero-shot-relational-learning-on-temporal-knowledge-graphs-with-large-language-models)\]
 - **2022/05/02**: "*zrLLM: Zero-Shot Relational Learning on Temporal Knowledge Graphs with Large Language Models*" at the [Temporal Graph Reading Group
-](https://www.cs.mcgill.ca/~shuang43/rg.html) \[[Video](https://www.youtube.com/watch?v=buUeOQLtzBc)\]
+](https://www.cs.mcgill.ca/~shuang43/rg.html). \[[Video](https://www.youtube.com/watch?v=buUeOQLtzBc)\]
 - **2022/03/02**: "*Past Present and Future*" at SMR Demo Session @ Siemens AG
-in Munich, Germany
+in Munich, Germany.
   
 <!-- ### Talks -->
 ##### 2023
-- **2023/11/09**: "*ForecastTKGQuestions: A Benchmark for Temporal Question Answering and Forecasting over Temporal Knowledge Graphs*" at [ISWC 2023](https://iswc2023.semanticweb.org/) in Athens, Greece
-- **2023/09/20**: "*Improving Few-Shot Inductive Learning on Temporal Knowledge Graphs using Confidence-Augmented Reinforcement Learning*" at [ECML PKDD 2023](https://2023.ecmlpkdd.org/) in Turin, Italy
-- **2023/06/19**: "*Learning Meta-Representations of One-Shot Relations for Temporal Knowledge Graph Link Prediction*" at [IJCNN 2023](https://2023.ijcnn.org/) in Gold Coast, Australia
+- **2023/11/09**: "*ForecastTKGQuestions: A Benchmark for Temporal Question Answering and Forecasting over Temporal Knowledge Graphs*" at [ISWC 2023](https://iswc2023.semanticweb.org/) in Athens, Greece.
+- **2023/09/20**: "*Improving Few-Shot Inductive Learning on Temporal Knowledge Graphs using Confidence-Augmented Reinforcement Learning*" at [ECML PKDD 2023](https://2023.ecmlpkdd.org/) in Turin, Italy.
+- **2023/06/19**: "*Learning Meta-Representations of One-Shot Relations for Temporal Knowledge Graph Link Prediction*" at [IJCNN 2023](https://2023.ijcnn.org/) in Gold Coast, Australia.
 
 ##### 2022
-- **2022/11/04**: "*Few-Shot Inductive Learning on Temporal Knowledge Graphs using Concept-Aware Information*" at [AKBC 2022](https://www.akbc.ws/2022/) in London, UK \[[Video](https://www.youtube.com/watch?v=mXhOF_ZwTVg)\]
+- **2022/11/04**: "*Few-Shot Inductive Learning on Temporal Knowledge Graphs using Concept-Aware Information*" at [AKBC 2022](https://www.akbc.ws/2022/) in London, UK. \[[Video](https://www.youtube.com/watch?v=mXhOF_ZwTVg)\]
 
 ### Program Committee/Reviewer
 - ICLR 2025
