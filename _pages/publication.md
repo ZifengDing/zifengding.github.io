@@ -6,7 +6,7 @@ years: [2025,2024,2023,2022,2021]
 byears: [2024]
 dyears: [2024]
 tyears: [2023]
-pyears: [2025,2024,2023]
+pyears: [2025,2024]
 jyears: [2024,2021]
 wyears: [2024]
 nav: true
