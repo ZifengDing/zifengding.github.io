@@ -8,11 +8,12 @@ sort_menu: 2
 ---
 ### Talks
 ##### 2024
+- **2025/03/13**: "*DyGMamba: Efficiently Modeling Long-Term Temporal Dependency on Continuous-Time Dynamic Graphs with State
+Space Models*" at the [Temporal Graph Reading Group](https://www.cs.mcgill.ca/~shuang43/rg.html). \[[Video](https://www.youtube.com/watch?v=CT3qw3IElzo&ab_channel=TemporalGraphLearning)\]
 - **2024/10/31**: Invited talk "*Language Models and Knowledge Representation Learning*" at University of Stuttgart in Stuttgart, Germany.
 - **2024/06/18**: "*zrLLM: Zero-Shot Relational Learning on Temporal Knowledge Graphs with Large Language Models*" at [NAACL 2024
 ](https://2024.naacl.org/) in Mexico City, Mexico. \[[Pre-recorded Video](https://underline.io/events/458/sessions/17454/lecture/97289-zrllm-zero-shot-relational-learning-on-temporal-knowledge-graphs-with-large-language-models)\]
-- **2022/05/02**: "*zrLLM: Zero-Shot Relational Learning on Temporal Knowledge Graphs with Large Language Models*" at the [Temporal Graph Reading Group
-](https://www.cs.mcgill.ca/~shuang43/rg.html). \[[Video](https://www.youtube.com/watch?v=buUeOQLtzBc)\]
+- **2022/05/02**: "*zrLLM: Zero-Shot Relational Learning on Temporal Knowledge Graphs with Large Language Models*" at the [Temporal Graph Reading Group](https://www.cs.mcgill.ca/~shuang43/rg.html). \[[Video](https://www.youtube.com/watch?v=buUeOQLtzBc)\]
 - **2022/03/02**: "*Past Present and Future*" at SMR Demo Session @ Siemens AG
 in Munich, Germany.
   
@@ -30,5 +31,5 @@ in Munich, Germany.
 - NeurIPS 2023, 2024
 - ACL Rolling Review
 - ICML 2023
-- ECML PKDD 2023 2024
-- **Journal:** TNNLS, Neural Networks
+- ECML PKDD 2023 2024 2025
+- **Journal:** TPAMI, TNNLS, Neural Networks
