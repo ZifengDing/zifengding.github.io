@@ -41,7 +41,7 @@ To achieve this, I am conducting fundamental research in the following areas:
 
 <br/>
 
-##### Conference
+##### Conference & Journal
 
 <div class="publications">
 <!-- {% for y in page.years %} -->
