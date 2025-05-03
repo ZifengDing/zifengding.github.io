@@ -11,6 +11,7 @@ sort_menu: 2
 - **2025/05/02**: Invited Talk "*Large Language Models Can Hallucinate: When, Why, and How to Mitigate*" at the [NLIP Group Seminars Cambridge Computer Laboratory](https://talks.cam.ac.uk/show/index/6401) in Cambridge, UK.
 - **2025/03/13**: "*DyGMamba: Efficiently Modeling Long-Term Temporal Dependency on Continuous-Time Dynamic Graphs with State
 Space Models*" at the [Temporal Graph Reading Group](https://www.cs.mcgill.ca/~shuang43/rg.html). \[[Video](https://www.youtube.com/watch?v=CT3qw3IElzo&ab_channel=TemporalGraphLearning)\]
+
 ##### 2024
 - **2024/10/31**: Invited talk "*Language Models and Knowledge Representation Learning*" at University of Stuttgart in Stuttgart, Germany.
 - **2024/06/18**: "*zrLLM: Zero-Shot Relational Learning on Temporal Knowledge Graphs with Large Language Models*" at [NAACL 2024
@@ -19,7 +20,6 @@ Space Models*" at the [Temporal Graph Reading Group](https://www.cs.mcgill.ca/~s
 - **2022/03/02**: "*Past Present and Future*" at SMR Demo Session @ Siemens AG
 in Munich, Germany.
   
-<!-- ### Talks -->
 ##### 2023
 - **2023/11/09**: "*ForecastTKGQuestions: A Benchmark for Temporal Question Answering and Forecasting over Temporal Knowledge Graphs*" at [ISWC 2023](https://iswc2023.semanticweb.org/) in Athens, Greece.
 - **2023/09/20**: "*Improving Few-Shot Inductive Learning on Temporal Knowledge Graphs using Confidence-Augmented Reinforcement Learning*" at [ECML PKDD 2023](https://2023.ecmlpkdd.org/) in Turin, Italy.
@@ -28,10 +28,13 @@ in Munich, Germany.
 ##### 2022
 - **2022/11/04**: "*Few-Shot Inductive Learning on Temporal Knowledge Graphs using Concept-Aware Information*" at [AKBC 2022](https://www.akbc.ws/2022/) in London, UK. \[[Video](https://www.youtube.com/watch?v=mXhOF_ZwTVg)\]
 
+<!-- ### Talks -->
+
 ### Program Committee/Reviewer
 - ICLR 2025
 - NeurIPS 2023, 2024
 - ACL Rolling Review
 - ICML 2023
+- COLM 2025
 - ECML PKDD 2023 2024 2025
 - **Journal:** TPAMI, TNNLS, Neural Networks
