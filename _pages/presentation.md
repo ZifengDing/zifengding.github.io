@@ -8,7 +8,7 @@ sort_menu: 2
 ---
 ### Talks
 ##### 2025
-- **2025/05/02**: Invited Talk "*Large Language Models Can Hallucinate: When, Why, and How to Mitigate*" at the [NLIP Group Seminars Cambridge Computer Laboratory]([https://www.cs.mcgill.ca/~shuang43/rg.html](https://talks.cam.ac.uk/show/index/6401) in Cambridge, UK.
+- **2025/05/02**: Invited Talk "*Large Language Models Can Hallucinate: When, Why, and How to Mitigate*" at the [NLIP Group Seminars Cambridge Computer Laboratory](https://talks.cam.ac.uk/show/index/6401) in Cambridge, UK.
 - **2025/03/13**: "*DyGMamba: Efficiently Modeling Long-Term Temporal Dependency on Continuous-Time Dynamic Graphs with State
 Space Models*" at the [Temporal Graph Reading Group](https://www.cs.mcgill.ca/~shuang43/rg.html). \[[Video](https://www.youtube.com/watch?v=CT3qw3IElzo&ab_channel=TemporalGraphLearning)\]
 ##### 2024
