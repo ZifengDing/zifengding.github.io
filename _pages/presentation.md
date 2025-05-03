@@ -7,9 +7,11 @@ nav: true
 sort_menu: 2
 ---
 ### Talks
-##### 2024
+##### 2025
+- **2025/05/02**: Invited Talk "*Large Language Models Can Hallucinate: When, Why, and How to Mitigate*" at the [NLIP Group Seminars Cambridge Computer Laboratory]([https://www.cs.mcgill.ca/~shuang43/rg.html](https://talks.cam.ac.uk/show/index/6401) in Cambridge, UK.
 - **2025/03/13**: "*DyGMamba: Efficiently Modeling Long-Term Temporal Dependency on Continuous-Time Dynamic Graphs with State
 Space Models*" at the [Temporal Graph Reading Group](https://www.cs.mcgill.ca/~shuang43/rg.html). \[[Video](https://www.youtube.com/watch?v=CT3qw3IElzo&ab_channel=TemporalGraphLearning)\]
+##### 2024
 - **2024/10/31**: Invited talk "*Language Models and Knowledge Representation Learning*" at University of Stuttgart in Stuttgart, Germany.
 - **2024/06/18**: "*zrLLM: Zero-Shot Relational Learning on Temporal Knowledge Graphs with Large Language Models*" at [NAACL 2024
 ](https://2024.naacl.org/) in Mexico City, Mexico. \[[Pre-recorded Video](https://underline.io/events/458/sessions/17454/lecture/97289-zrllm-zero-shot-relational-learning-on-temporal-knowledge-graphs-with-large-language-models)\]
