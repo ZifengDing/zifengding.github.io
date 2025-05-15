@@ -29,6 +29,8 @@ in Munich, Germany.
 - **2022/11/04**: "*Few-Shot Inductive Learning on Temporal Knowledge Graphs using Concept-Aware Information*" at [AKBC 2022](https://www.akbc.ws/2022/) in London, UK. \[[Video](https://www.youtube.com/watch?v=mXhOF_ZwTVg)\]
 
 <!-- ### Talks -->
+### Workshop Organizer
+- The Eighth \[FEVER\](https://fever.ai/workshop.html) Workshop, co-located with ACL 2025
 
 ### Program Committee/Reviewer
 - ICLR 2025
