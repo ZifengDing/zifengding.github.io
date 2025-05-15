@@ -30,7 +30,7 @@ in Munich, Germany.
 
 <!-- ### Talks -->
 ### Workshop Organizer
-- The Eighth \[FEVER\](https://fever.ai/workshop.html) Workshop, co-located with ACL 2025
+- The Eighth [FEVER](https://fever.ai/workshop.html) Workshop, co-located with ACL 2025
 
 ### Program Committee/Reviewer
 - ICLR 2025
