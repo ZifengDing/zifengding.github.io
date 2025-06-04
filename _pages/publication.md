@@ -39,6 +39,8 @@ To achieve this, I am conducting fundamental research in the following areas:
 
 #### Selected Publications (Full publist on [google scholar](https://scholar.google.com/citations?user=8RapuD4AAAAJ&hl=en))
 
+Please read my newest preprints to see my latest research focus.
+
 <br/>
 
 ##### Conference & Journal
