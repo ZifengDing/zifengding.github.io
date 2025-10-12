@@ -8,7 +8,7 @@ sort_menu: 2
 ---
 ### Talks
 ##### 2025
-- **2025/010/9**: "*Self-Exploring Language Models for Explainable Link Forecasting on Temporal Graphs via Reinforcement Learning*" at the [Temporal Graph Reading Group](https://www.cs.mcgill.ca/~shuang43/rg.html).
+- **2025/10/9**: "*Self-Exploring Language Models for Explainable Link Forecasting on Temporal Graphs via Reinforcement Learning*" at the [Temporal Graph Reading Group](https://www.cs.mcgill.ca/~shuang43/rg.html).
 - **2025/08/15**: Invited Talk "*Towards Long-Context Reasoning and Explainability in Dynamic Graphs*" at the [Learning and Reasoning (LARS) Research Group](https://lars-group.github.io/pages/group.html), Tsinghua University, China.
 - **2025/05/02**: Invited Talk "*Large Language Models Can Hallucinate: When, Why, and How to Mitigate*" at the [NLIP Group Seminars Cambridge Computer Laboratory](https://talks.cam.ac.uk/show/index/6401), University of Cambridge in Cambridge, UK.
 - **2025/03/13**: "*DyGMamba: Efficiently Modeling Long-Term Temporal Dependency on Continuous-Time Dynamic Graphs with State
