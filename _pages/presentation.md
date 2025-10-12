@@ -32,13 +32,13 @@ in Munich, Germany.
 
 <!-- ### Talks -->
 ### Workshop Organizer/Program Chair
-- The Ninth [FEVER](https://fever.ai/workshop.html) Workshop, co-located with EACL 2026
-- The Eighth FEVER Workshop, co-located with ACL 2025
+- The Ninth Fact Extraction and VERification ([FEVER](https://fever.ai/workshop.html)) Workshop, co-located with EACL 2026
+- The Eighth Fact Extraction and VERification ([FEVER](https://fever.ai/workshop.html)) Workshop, co-located with ACL 2025
 
 ### Area Chair
 - ACL Rolling Review Oct, 2025
-- Scaling Environments for Agents [SEA](https://sea-workshop.github.io/) Workshop, co-located with NeurIPS 2025
-- Temporal Graph Learning [TGL](https://sites.google.com/view/tgl-workshop-2025/) Workshop, co-located with KDD 2025
+- Scaling Environments for Agents ([SEA](https://sea-workshop.github.io/)) Workshop, co-located with NeurIPS 2025
+- Temporal Graph Learning ([TGL](https://sites.google.com/view/tgl-workshop-2025/)) Workshop, co-located with KDD 2025
 
 ### Program Committee/Reviewer
 - ICLR 2025
@@ -47,4 +47,4 @@ in Munich, Germany.
 - ICML 2023
 - COLM 2025
 - ECML PKDD 2023 2024 2025
-- **Journal:** TPAMI, TNNLS, Neural Networks
+- Journal: TPAMI, TNNLS, Neural Networks
